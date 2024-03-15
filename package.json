@@ -1,0 +1,16 @@
+{
+  "name": "express_project",
+  "version": "1.0.0",
+  "description": "Back-end Project on Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "Back-end",
+    "Express"
+  ],
+  "author": "Muhammad Umer",
+  "license": "ISC"
+}
